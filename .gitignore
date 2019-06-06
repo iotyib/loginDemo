@@ -4,3 +4,4 @@ venv
 settings.py
 db.sqlite3
 mysite/__pycache__/
+将删除 login/static/
